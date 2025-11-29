@@ -1,7 +1,8 @@
 <div align="center">
 
 <h1>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20src  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&duration=2000&pause=500&color=0A66C2&center=true&vCenter=true&width=700&lines=AmirHossein+Arab" alt="Name" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&duration=2000&pause=500&color=0A66C2&center=true&vCenter=true&width=700&lines=AmirHossein+Arab" alt="Name" />
 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A5D8FF&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Team+Leader+%26+AI+Mentor;Scalable+Systems+Expert;Tech+Enthusiast" alt="Typing SVG" />
